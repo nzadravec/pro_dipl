@@ -1,0 +1,14 @@
+
+
+Sustav za poluautomatsko označavanje rukom pisanih riječi (ali 
+"štampanim" slovima - recimo imena i prezimena ljudi kada se unose u 
+neki formular)
+
+Kratak opis teme projekta
+Tema projekta je izrada sustav za poluautomatsko označavanje rukom pisanih 
+riječi te uporaba istoga za pripremu odgovarajućeg skupa podataka.
+Ulaz u sustav će biti skenirani obrasci na kojima će biti rukom pisane riječi
+štampanim slovima. Sustav će na svakom obrascu lokalizirati riječi, 
+segmentirati slova pojedinih riječi te uporabom jednostavnog klasifikatora označiti
+svako slovo. Pomoću grafičkog sučelja korisnik će moći vidjeti i ispraviti 
+okvir oko slova i oznaku slova.
