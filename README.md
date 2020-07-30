@@ -1,6 +1,6 @@
 # [Diplomski projekt](https://www.fer.unizg.hr/predmet/pro_dipl) (FER) - Sustav za poluautomatsko označavanje rukom pisanih riječi
 
-## Kratak opis teme projekta:
+## Kratak opis teme projekta
 <p align="justify">
 Tema projekta je izrada sustav za poluautomatsko označavanje rukom pisanih 
 riječi te uporaba istoga za pripremu odgovarajućeg skupa podataka.
